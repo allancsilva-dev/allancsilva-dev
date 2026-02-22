@@ -157,12 +157,7 @@ Atualmente trabalho com **Java/Spring Boot** e **Angular/TypeScript**, unindo vi
 <br/>
 
 ---
-
----
-
 ## 📊 Estatísticas
-
-## 📊 Estatísticas (Summary Cards)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allancsilva-dev&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allancsilva-dev&theme=tokyonight)
