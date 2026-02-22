@@ -162,8 +162,13 @@ Atualmente trabalho com **Java/Spring Boot** e **Angular/TypeScript**, unindo vi
 
 ## 📊 Estatísticas
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=allancsilva-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allancsilva-dev&layout=compact)
+## 📊 Estatísticas (Summary Cards)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allancsilva-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allancsilva-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allancsilva-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allancsilva-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allancsilva-dev&theme=tokyonight&utcOffset=-3)
 ---
 
 <br/>
