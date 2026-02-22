@@ -1,5 +1,5 @@
-# 👋 Olá! Eu sou o Allan Carvalho 🚀  
-**Desenvolver Full Stack Pleno** 🇧🇷  
+# 👋 Olá! Eu sou o Allan Carvalho 
+**Desenvolver Full Stack Pleno 💻** 🇧🇷  
 
 💡 Foco em **modernização de sistemas**, **performance**, **arquitetura limpa** e **observabilidade**.  
 Trago experiência forte em **infra híbrida (on-prem + cloud)** e estou evoluindo para **desenvolvimento** com Java/Spring e Angular.
